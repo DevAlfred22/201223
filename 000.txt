@@ -1,0 +1,19 @@
+TITULO
+
+-Hey Jobs!
+
+TEMA
+
+-Empregos mais pagos no Brasil
+
+OBJETIVO
+
+-Informação
+
+FASES
+
+1)Titulo impactante
+2)Introdução simples e direta
+3)Areas(Valor, popularidade) 📊 
+4)Tabela
+5)Conclusão e links
